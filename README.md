@@ -21,8 +21,7 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/divya-jangid-6a3547385
-  
+🔗 [LinkedIn](https://www.linkedin.com/in/divya-jangid-6a3547385)  
 ---
 
 ## ✨ Quote
