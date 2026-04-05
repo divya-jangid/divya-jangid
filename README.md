@@ -15,7 +15,7 @@
 
 ## 💼 What I'm Doing
 - 🔭 Working on MERN stack projects  
-- 🌱 Learning advanced React & backend development  
+- 🌱 Learning React & backend development  
 - ⚡ Exploring real-world problem solving through code  
 
 ---
