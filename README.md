@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- Frontend: HTML, CSS, JavaScript, React, Next.js 
+- Frontend: HTML, CSS, JavaScript, React.js, Next.js 
 - Backend: Node.js, Express.js  
 - Database: MongoDB  
 
